@@ -100,7 +100,6 @@ class Game extends Component {
 								onClick={this.animateRoll}>
 								{this.displayRollInfo()}
 							</button>
-							>
 						</div>
 					</section>
 				</header>
